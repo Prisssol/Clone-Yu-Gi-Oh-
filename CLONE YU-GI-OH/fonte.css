@@ -1,0 +1,7 @@
+@font-face {
+    font-family:'Yu-Gi-Oh!';
+    src:url("fonte-yu-gi-oh.otf");
+}
+div {
+    font-family:minhafonte;
+} 
